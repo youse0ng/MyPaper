@@ -1,3 +1,5 @@
+학부생때 작성한 논문
+
 DO 센서와 라즈베리파이 카메라를 활용한 아두이노와 OpenCV기반의 이동식 녹조제거장치에 관한 연구
 
 https://www-dbpia-co-kr.libproxy.smuc.ac.kr/journal/articleDetail?nodeId=NODE11262661
